@@ -16,6 +16,7 @@ optax = "^0.2.2"
 [tool.poetry.group.dev.dependencies]
 matplotlib = "^3.8.4"
 notebook = "^7.1.3"
+scikit-learn = "^1.4.2"
 
 [build-system]
 requires = ["poetry-core"]
